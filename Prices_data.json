@@ -1,0 +1,44 @@
+{
+    "mohit22@navgurukul.org": {
+        "password": "Na82997@",
+        "bikes": {
+            "Normal": {
+                "Splender": 120,
+                "Bajaj": 110,
+                "Hero Hando": 120,
+                "Super Splender": 130,
+                "Tvs": 50
+            },
+            "Super": {
+                "Bullet": 400,
+                "KTM": 450,
+                "Apachi": 500,
+                "Pulser": 550,
+                "Avenger": 600
+            },
+            "Scooty": {
+                "Tvs Scooty": 200,
+                "ELectric Scooty": 220,
+                "Honda Scooty": 460,
+                "Activa Scooty": 300,
+                "Hero Scooty": 240
+            }
+        },
+        "cars": {
+            "Normal": {
+                "Maruti Suzuki": 1000,
+                "Toyota Etios": 1100,
+                "Honda City": 1200,
+                "Verna": 1300,
+                "Tata Indigo": 1400
+            },
+            "Super": {
+                "Mercedes": 3000,
+                "BMW": 3500,
+                "Audi A4": 4000,
+                "Mahindra Thar": 4500,
+                "Tata Safari": 5000
+            }
+        }
+    }
+}
