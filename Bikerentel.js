@@ -21,7 +21,6 @@ const owners = {
 }
 
 
-
 function name() {
     while (true) {
         let Name = input.question("Enter Your Name:->");
